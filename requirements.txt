@@ -30,7 +30,6 @@ jupyter-client==6.1.13
 jupyter-core==4.7.1
 jupyter-server==1.5.1
 jupyterlab-pygments==0.1.2
-Keras==2.4.3
 lazy-object-proxy==1.5.2
 locket==0.2.0
 MarkupSafe==1.1.1
@@ -46,8 +45,6 @@ packaging==20.9
 pandas==1.2.0
 pandocfilters==1.4.3
 partd==1.1.0
-pipenv==2020.8.13
-prometheus-client==0.10.0
 psutil==5.8.0
 pycparser==2.20
 Pygments==2.8.1
@@ -79,5 +76,4 @@ virtualenv-clone==0.5.4
 voila==0.2.7
 webencodings==0.5.1
 wrapt==1.12.1
-xgboost==1.3.0.post0
 zict==2.0.0
