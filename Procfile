@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --strip_sources=True --enable_nbextensions=True --VoilaConfiguration.file_whitelist="['favicon.ico]" Application.ipynb
+web: voila --port=$PORT --no-browser --strip_sources=True --enable_nbextensions=True --VoilaConfiguration.file_whitelist="['favicon.ico]" Application.ipynb --theme=dark
